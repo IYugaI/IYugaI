@@ -1,6 +1,5 @@
 ## Hi there, I'm Oleksii 👋
 
-### As a Fullstack Web Developer, I specialize in crafting seamless user experiences by working with both frontend design and backend functionality
 <!--
 **IYugaI/IYugaI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
